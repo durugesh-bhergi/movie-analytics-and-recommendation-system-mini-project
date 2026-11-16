@@ -1,8 +1,4 @@
 # 🎬 CinePulse: Movie Analytics & Recommendation System
-**DBMS Mini Project | Course Code: UE23CS351A**  
-**Department of Computer Science and Engineering | PES University, Bengaluru**
-
----
 
 ## 📋 Evaluation Rubric Alignment Matrix (100% Satisfied)
 
@@ -275,9 +271,10 @@ The database enforces security via 5 relational tables: `users`, `roles`, `permi
 
 ---
 
-## 👥 Student & Guide Details
-- **Student Name**: T. Lohith Srinivas
-- **SRN**: PES2UG19CS203
-- **Course**: UE23CS351A – Database Management Systems Project
-- **Faculty Guide**: Dr. Shilpa S, Assistant Professor
-- **Department**: Computer Science & Engineering, PES University, Bengaluru
+## 👥 Students details
+- **Student Name**:DURUGESH
+- **SRN**: PES2UG24AM056
+
+- **Student Name**:BHARATH
+-  **SRN**: PES2UG24AM039
+
