@@ -1,10 +1,4 @@
-"""
-Build Complete PES University DBMS Mini Project Report (.docx)
-Course: UE23CS351A - DBMS Project
-Topic: Movie Analytics & Recommendation System
-Student: T. Lohith Srinivas (PES2UG19CS203)
-Guide: Dr. Shilpa S, Assistant Professor
-"""
+
 import os
 import docx
 from docx.shared import Inches, Pt, RGBColor
